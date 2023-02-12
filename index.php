@@ -1,6 +1,6 @@
 <!-- Dev By CMSNT.CO | FB.COM/CMSNT.CO | ZALO.ME/0947838128 | MMO Solution -->
 <?php
-define("IN_SITE", true);
+define("khanhdz29.github.io", true);
 require_once(__DIR__.'/libs/db.php');
 require_once(__DIR__.'/config.php');
 require_once(__DIR__.'/libs/lang.php');
